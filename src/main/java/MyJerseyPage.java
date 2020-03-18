@@ -9,6 +9,6 @@ public class MyJerseyPage {
 @GET
 @Produces(MediaType.TEXT_HTML)
 public String sayHtmlHello() {
-return "Hello from Jersey";
+return "Hello from Suresh Jersey";
 }
 }
